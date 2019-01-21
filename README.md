@@ -1,5 +1,5 @@
 # JMX Exporter
-`quay.io/utilitywarehouse/jmx-exporter`
+`quay.io/utilitywarehouse/jmx_exporter`
 
 [![Docker Repository on Quay](https://quay.io/repository/utilitywarehouse/jmx_exporter/status "Docker Repository on Quay")](https://quay.io/repository/utilitywarehouse/jmx_exporter)
 
