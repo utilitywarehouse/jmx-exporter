@@ -1,6 +1,7 @@
-FROM adoptopenjdk/openjdk10:alpine-slim
+FROM adoptopenjdk/openjdk14:alpine-slim
 
-ARG VERSION=0.11.0
+# https://github.com/prometheus/jmx_exporter/releases
+ARG VERSION=0.13.0
 
 ENV LANG=C.UTF-8 \
     JAVA_HOME=/opt/java/openjdk \
