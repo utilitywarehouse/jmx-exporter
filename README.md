@@ -1,7 +1,7 @@
 # JMX Exporter
 `quay.io/utilitywarehouse/jmx_exporter`
 
-[![Docker Repository on Quay](https://quay.io/repository/utilitywarehouse/jmx_exporter/status "Docker Repository on Quay")](https://quay.io/repository/utilitywarehouse/jmx_exporter)
+[![Build Status](https://drone.prod.merit.uw.systems/api/badges/utilitywarehouse/jmx-exporter/status.svg)](https://drone.prod.merit.uw.systems/utilitywarehouse/jmx-exporter)
 
 
 ## UW build Notes
