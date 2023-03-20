@@ -1,3 +1,5 @@
+Deprecated in favour of https://hub.docker.com/r/bitnami/jmx-exporter/ - please use it instead.
+
 # JMX Exporter
 `quay.io/utilitywarehouse/jmx_exporter`
 
